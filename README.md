@@ -2,7 +2,7 @@
 
 【圈x配置地址】 
 
-https://raw.githubusercontent.com/TNT08/QX-config/main/Home/TNT22.conf
+https://ghproxy.com/https://raw.githubusercontent.com/TNT08/QX-config/main/Home/TNT22.conf
 
 【圈x订阅地址】
 
