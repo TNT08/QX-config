@@ -6,11 +6,13 @@ https://ghproxy.com/https://raw.githubusercontent.com/TNT08/QX-config/main/Home/
 
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/TNT08/QX-config/main/Home
+/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/TNT08/QX-config/main/Home
+/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取大佬修复脚本仓库命令】
 
