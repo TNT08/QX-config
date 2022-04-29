@@ -1,5 +1,6 @@
 ### 仓库订阅地址：
- 
+【圈x配置地址】 
+https://raw.githubusercontent.com/TNT08/QX-config/main/Home/TNT22.conf
 【圈x订阅地址】
 
 https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
